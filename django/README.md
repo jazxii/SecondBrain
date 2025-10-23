@@ -1,1 +1,1 @@
-# Learning_React
+# Learning_Django
