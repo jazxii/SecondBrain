@@ -1,4 +1,4 @@
-### 🧠 Full Backend Endpoint Canvas — Full-Stack AI Project
+### 🧠 Full Backend Endpoint Canvas — Full-Stack AI Project - A11y-insights
 **Stack:** FastAPI + MongoDB + OpenAI + React (Frontend)
 
 ---
